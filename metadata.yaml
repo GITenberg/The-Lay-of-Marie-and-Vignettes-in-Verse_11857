@@ -1,0 +1,26 @@
+_repo: The-Lay-of-Marie-and-Vignettes-in-Verse_11857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Betham, Matilda
+    alias: Betham, Mary Matilda
+    birthdate: 1776
+    deathdate: 1852
+    gutenberg_agent_id: '3240'
+    url: http://www.gutenberg.org/2009/agents/3240
+description: The lay of Marie--Vignettes in verse.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Marie, de France, active 12th century -- Poetry'
+- !lcsh 'Women poets -- Poetry'
+- GITenberg
+title: The Lay of Marie and Vignettes in Verse
+url: http://www.gutenberg.org/ebooks/11857
